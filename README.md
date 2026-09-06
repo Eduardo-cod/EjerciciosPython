@@ -34,4 +34,3 @@ Cómo ejecutar los ejercicios
 Notas
 -Este repositorio es únicamente para fines educativos.
 -El contenido del libro no se incluye, solo mis soluciones y prácticas.
-
