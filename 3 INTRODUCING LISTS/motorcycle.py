@@ -19,3 +19,16 @@ print(popped_motorcycle) #imprimo la variable que contiene el ultimo elemento el
 
 motorcycles.remove("suzuki") #elimino un elemento especifico de la lista
 print(motorcycles)
+
+'''
+#imprimo el elemento que se encuentra en la posicion 3 de la lista
+print(motorcycles[3]) #ocasiona un error porque la lista tiene solo 3 elementos y el indice 3 no existe.
+'''
+
+print(motorcycles[-1]) #imprimo el ultimo elemento de la lista usando un indice negativo
+
+'''
+#ocasiona un error porque la lista esta vacia y no hay ningun elemento que imprimir    
+motorcycles = []
+print(motorcycles[-1])
+'''
